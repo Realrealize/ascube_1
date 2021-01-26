@@ -1,0 +1,10 @@
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\bin\Debug\AssaltCubeGamehack.exe.config
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\bin\Debug\AssaltCubeGamehack.exe
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\bin\Debug\AssaltCubeGamehack.pdb
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.csprojAssemblyReference.cache
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.Form1.resources
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.Properties.Resources.resources
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.csproj.GenerateResource.cache
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.csproj.CoreCompileInputs.cache
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.exe
+C:\Users\홍영창\source\repos\AssaltCubeGamehack\AssaltCubeGamehack\obj\Debug\AssaltCubeGamehack.pdb
